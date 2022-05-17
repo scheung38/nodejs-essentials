@@ -2,7 +2,7 @@
 
 https://www.youtube.com/watch?v=lXRNRDjVdkY&list=PLpc_YvcwbxaRl8WOTamrAD78jnsuNqM1C&index=3
 
-Servita Interview prep
+Nodejs Interview prep
 
 https://github.com/asdf-vm/asdf-nodejs
 
@@ -49,7 +49,7 @@ Please install a version by running one of the following:
 
 asdf install nodejs 16.15.0
 
-or add one of the following versions in your config file at /Users/mincheung/Documents/servita-interview/.tool-versions
+or add one of the following versions in your config file at /Users/mincheung/Documents/nodejs-interview/.tool-versions
 nodejs 16.13.1
 nodejs 17.2.0
 nodejs 18.2.0
@@ -70,7 +70,7 @@ Type ".help" for more information.
 
 Can also install via nvm - node version manager
 
-➜  servita-interview git:(master) ✗ nvm list   
+➜  nodejs-interview git:(master) ✗ nvm list   
          v6.9.0
          v6.9.1
          v6.9.5
